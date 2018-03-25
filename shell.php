@@ -1,5 +1,5 @@
 <?php
-if(isset($_GET['payload'])){
+if(isset($_GET['payload'])){ // changed something
  $payload = $_GET['payload'];
  if(!empty($payload)){
 	 echo $payload;
