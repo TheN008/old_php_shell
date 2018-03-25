@@ -76,8 +76,8 @@ system($cmd);
 	}
         
     }
-
-    ?>
+	// Learning GIT
+?>
 
 
 
