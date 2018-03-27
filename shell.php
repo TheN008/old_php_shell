@@ -1,5 +1,5 @@
 <?php
-//Receives the value of Payload Parameter through $_GET
+//Receives the value of Payload Parameter through $_GET again
 if(isset($_GET['payload'])){
  $payload = $_GET['payload'];
  if(!empty($payload)){
