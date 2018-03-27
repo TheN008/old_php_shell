@@ -76,7 +76,7 @@ system($cmd);
 	}
         
     }
-	// Learning GIT
+	// Removed the old comment
 ?>
 
 
